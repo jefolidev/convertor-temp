@@ -1,42 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Conversor de Temperatura</title>
 
-    <link type = "text/css" href = "style/style.css"
+    <link rel = "stylesheet" type = "text/css" href = "style/style.css">
 </head>
 <body>
 
     <main>
         <section class = "main-form"> 
-            <h2 class = "title-form""> Conversor de Temperaturas</h2>
+            
+            <nav class = "nav-form"> 
+                <h2 class = "title-form""> Conversor de Temperaturas</h2>
+            </nav>
 
             <form class = "form">
 
                 <div class = "form-temp-inputs">
-                    <label class = "element-temp"> Insira o valor desejado </label>
-                    <input type = "number" class = "temp-value">
+                    <label class = "element-temp"> Insira o valor desejado: </label>
+                    <input type = "number" class = "temp-value" id = "tempValue">
                 </div>
 
                 <div class = "radio-temp">
-                    <input type = "radio" class = "celsius-value" name = "value"> <label class = "input-celsius"> Celsius </label>
-                    <input type = "radio" class = "fahrenheint-value" name = "value"> <label class = "input-fahrenheint"> Fahrenheint </label>
-                    <input type = "radio" class = "kelvin-value" name = "value"> <label class = "input-kelvin"> Kelvin </label>
+                    <input type = "radio" class = "celsius-value" name = "value" id = "celsiusV"> <label class = "input-celsius"> Celsius </label>
+                    <input type = "radio" class = "fahrenheint-value" name = "value" id = "fahrV"> <label class = "input-fahrenheint"> Fahrenheint </label>
+                    <input type = "radio" class = "kelvin-value" name = "value" id = "kelvinV"> <label class = "input-kelvin"> Kelvin </label>
                 </div>
 
                 <div class = "button-submit">
-                    <input type = "button" value = "Converter">
+                    <input type = "button" value = "Converter" id = "submit" class = "button-element">
                 </div>
                 
             </form>
-                <div class = result> </div>
+                <div class = result id = "result"> </div>
             
         </section>
-        
-
-
     </main> 
     <script src = "index.js"></script>
 </body>
