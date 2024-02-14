@@ -8,6 +8,7 @@
 - [Executar projeto](#Como-rodar)
 - [Tecnologias utilizadas](#Tecnologias-utilizadas)
 - [Autor](#Autor)
+- [Atualizações Futuras](#Atualizações-futuras)
 
 ## Funcionalidade do projeto
 
