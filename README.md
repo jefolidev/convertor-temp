@@ -3,9 +3,9 @@
  <p> Um simples convertor de temperatura. Com ele consegui treinar algumas coisas do <b>Java Script! </b></p>
 
 ## Indice
-- <a href = "#funcs"> Funcionalidade do Projeto </a>
-- <a href = "#interface"> UI </a>
-- <a href = "#tuto"> Como executar o projeto </a>
+- <a href = "#funcionalidade"> Funcionalidade do Projeto </a>
+- <a href = "#ui"> UI </a>
+- <a href = "#executar"> Como executar o projeto </a>
 - <a href = "tecnologias"> Tecnologia utilizadas </a>
 - <a href = "autor"> Autor </a>
 
@@ -42,46 +42,8 @@ $ npm insall
 </div>
 
 ## 👤 | Autor
-<div style =
-    "
-        background-color: #262525;
-        border-radius: 30px;
-        color: white;
-        font-size: 20px; 
-        font-weight: 200; 
-    ">
-    <div style = 
-    "
-        display: flex; 
-        align-items: center; 
-        gap: 8px; padding: 10px;
-        padding: 20px;
-    "> 
-        <img 
-            src = "./assets/fotominhacircle.png" 
-            style = "width: 120px; margin-top: 10px; border: 3px solid white; border-radius: 50%;
-    ">
-        <!--  -->
-        <p 
-            style = "margin-left: 10px; border-bottom: 1px solid gray;"> Jeferson Franco, Desenvolvedor Full Stack </p> 
-        <!--  -->
-        <a 
-        style = "text-decoration: none;" 
-        href = "https://github.com/jefolidev
-    "> 
-    <img 
-        src = "https://skillicons.dev/icons?i=linkedin" 
-        style = "margin-left: 5px; width: 30px; z-index: 2; position: relative;;      "> 
-    </a>
-    <a 
-        style = "text-decoration: none;" 
-        href = "https://www.linkedin.com/in/jeferson-franco-1349062b0/
-    "> 
-        <img 
-        src = "https://skillicons.dev/icons?i=github&theme=light" 
-        style = "width: 30px; z-index: 2; position: relative;"> </a>
-    </div>
-</div>
+<img src = "./assets/fotominhacircle.png" style = "width: 100px;"> <span> Jeferson Franco, Desenvolvedor Full Stack </span> <a style = "text-decoration: none;" href = "https://github.com/jefolidev"> <img src = "https://skillicons.dev/icons?i=linkedin" style = "margin-left: 5px; width: 20px; z-index: 2;"> </a> <a style = "text-decoration: none;" href = "https://www.linkedin.com/in/jeferson-franco-1349062b0/"> <img src = "https://skillicons.dev/icons?i=github&theme=light" style = "width: 20px; z-index: 2;"> </a>
+
 
 ## 🎏 | Atualizações futuras
 - Nenhuma atualização prevista para esse projeto.
