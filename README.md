@@ -3,11 +3,11 @@
  <p> Um simples convertor de temperatura. Com ele consegui treinar algumas coisas do <b>Java Script! </b></p>
 
 ## Indice
-- [Funcionaldiade do projeto](##funcionalidade-do-projeto)
-- [UI](##ui)
-- [Executar projeto](##como-rodar)
-- [Tecnologias utilizadas](##tecnologias-utilizadas)
-- [Autor](##Autor)
+- [Funcionaldiade do projeto](#funcionalidade-do-projeto)
+- [UI](#ui)
+- [Executar projeto](#como-rodar)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Autor](#Autor)
 
 ## 🔧 | Funcionalidade do projeto
 
