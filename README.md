@@ -43,7 +43,12 @@ $ npm insall
 </div>
 
 ## Autor
-<img src = "./assets/fotominhacircle.png" style = "width: 100px;"> <span> Jeferson Franco, Desenvolvedor Full Stack </span> <a style = "text-decoration: none;" href = "https://github.com/jefolidev"> <img src = "https://skillicons.dev/icons?i=linkedin" style = "margin-left: 5px; width: 20px; z-index: 2;"> </a> <a style = "text-decoration: none;" href = "https://www.linkedin.com/in/jeferson-franco-1349062b0/"> <img src = "https://skillicons.dev/icons?i=github&theme=light" style = "width: 20px; z-index: 2;"> </a>
+<div align = center>
+ <img src = "./assets/fotominhacircle.png" style = "width: 100px;">
+ <p> <b> Jeferson Franco, Desenvolvedor Full Stack </b> </p> 
+ <a style = "text-decoration: none;" href = "https://github.com/jefolidev"> <img src = "https://skillicons.dev/icons?i=linkedin" style = "width: 20px;"> </a>
+ <a style = "text-decoration: none;" href = "https://www.linkedin.com/in/jeferson-franco-1349062b0/"> <img src = "https://skillicons.dev/icons?i=github&theme=light" style = "width: 20px;"> </a>
+</div>
 
 
 ## Atualizações futuras
