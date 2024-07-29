@@ -32,7 +32,7 @@ $ git clone https://github.com/jefolidev/convertor-temp.git
 # cd convertor-temp
 
 # Instale todas dependências
-$ npm insall
+$ npm install
 
 # Execute a aplicação
 ```
